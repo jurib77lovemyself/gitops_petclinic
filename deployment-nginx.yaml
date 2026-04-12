@@ -15,7 +15,7 @@ spec:
         app: eks-nginx
     spec:
       containers:
-      - image: 803412499149.dkr.ecr.ap-northeast-2.amazonaws.com/ecr_nginx:636c886
+      - image: 803412499149.dkr.ecr.ap-northeast-2.amazonaws.com/ecr_nginx:4e43583
         name: eks-nginx
 
 
